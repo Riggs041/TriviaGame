@@ -1,13 +1,13 @@
-body {
-    background-color: #262626;
-}
-
 .footer{
     text-shadow: 2px 2px 5px red;
 }
 
 .questions{
+    background: url(http://www.desktopimages.org/pictures/2015/1104/1/orig_316424.jpg) no-repeat center fixed; 
+    background-size: cover;
     text-shadow: 2px 2px 5px red;
+    /* background-image: url(http://www.desktopimages.org/pictures/2015/1104/1/orig_316424.jpg); */
+    /* background-size: 50%; */
     background-color: #262626;
     color: #fff;
 }
