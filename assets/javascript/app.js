@@ -57,7 +57,7 @@ var myQuestions = [
         correctAnswer: 'a'
     },
     {
-        question: "What does Dwight grow on Schrutt Farms?",
+        question: "What does Dwight grow on Schrute Farms?",
         answers: {
             a: 'Carrots',
             b: 'Blueberries',
